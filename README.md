@@ -43,7 +43,8 @@
 # Конфигурируем Swagger(добавляем в application.properties):
 springdoc.api-docs.path=/api-docs  
 springdoc.swagger-ui.path=/swagger-ui
-# Скачиваем zip-файл с git в среде разработки (или уст):
+# [GIT repository max_number](https://github.com/boginav/max_number/archive/refs/heads/master.zip):
+# [Скачиваем zip-файл с git в среде разработки](https://github.com/boginav/max_number/archive/refs/heads/master.zip):
 Разархивируем zip.  
 Открываем в среде разработки.  
 Запускаем. Переходим по адресу (http://localhost:8080/swagger-ui).
