@@ -1,4 +1,4 @@
-# Создаем новый проект SpringBoot
+1# Создаем новый проект SpringBoot
 [Переходим в Spring Initializr](https://start.spring.io/)
 
 Выбераем следующие параметры:  
@@ -43,7 +43,7 @@
 # Конфигурируем Swagger(добавляем в application.properties):
 springdoc.api-docs.path=/api-docs  
 springdoc.swagger-ui.path=/swagger-ui
-# [GIT repository max_number](https://github.com/boginav/max_number/archive/refs/heads/master.zip):
+# [GIT repository max_number](https://github.com/boginav/max_number):
 # [Скачиваем zip-файл с git в среде разработки](https://github.com/boginav/max_number/archive/refs/heads/master.zip):
 Разархивируем zip.  
 Открываем в среде разработки.  
